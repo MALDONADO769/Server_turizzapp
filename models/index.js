@@ -1,5 +1,7 @@
-import Personal from './personal.models';
+import categoriaTiendas from "./CategoriaTienda.models";
+import nTienda from "./tienda.models";
 
-export default{
-    Personal
-}
+export default {
+  categoriaTiendas,
+  nTienda,
+};
